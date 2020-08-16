@@ -1,4 +1,7 @@
-readme file for the meta-amg88xx
-Incluye las recetas para la progra de python y las librerias necesarias
+README file for the meta-amg88xx
+meta-amg88xx is home for the python libraries needed to read using i2c the data from the amg8833 Adafruit sensor. 
+It includes as well recipes for 2 python scripts:
+python-captura which captures a frame from the sensor and draws in a 800x800 jpg file a color image from indigo to red being indigo the lowest tempertaure and read the highes temperature read from the sensor. 
+python-hotspot which takes a gray scale image and applys a Gaussian filter, binarizes the image, and detects and circles the hotspots. 
 
 
