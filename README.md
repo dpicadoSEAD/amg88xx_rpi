@@ -24,7 +24,6 @@ setuptools-scm\
 
 Note: This is a high level guide, you might need more native build tools, refer to https://www.yoctoproject.org/ for more information on how to perform and initial build. Change the paths in bblayers.conf to match what you have in your native system. 
 
-This repository includes a cooked image alreday in the examples folder. 
 
 This repository is intended to work with https://github.com/macho1997/amg88xx_UI which adds a private web service with nodejs to display the image and report. 
 
